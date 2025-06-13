@@ -44,6 +44,7 @@
     "typescript": "^5.5.4"
   },
   "exports": {
+    ".": "./index.js",
     "./index": "./index.js",
     "./resources/Source": "./lib/resources/Source.js",
     "./resources/Schedule": "./lib/resources/Schedule.js",
