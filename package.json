@@ -1,5 +1,5 @@
 {
-  "name": "omise-bun",
+  "name": "omise",
   "version": "1.0.2",
   "description": "Omise Node.js bindings",
   "main": "index.js",
