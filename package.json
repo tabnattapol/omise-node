@@ -42,5 +42,23 @@
     "ts-node": "^10.9.2",
     "tslint": "^6.1.3",
     "typescript": "^5.5.4"
+  },
+  "exports": {
+    "./index": "./index.js",
+    "./resources/Source": "./lib/resources/Source.js",
+    "./resources/Schedule": "./lib/resources/Schedule.js",
+    "./resources/Search": "./lib/resources/Search.js",
+    "./resources/Account": "./lib/resources/Account.js",
+    "./resources/Balance": "./lib/resources/Balance.js",
+    "./resources/Capability": "./lib/resources/Capability.js",
+    "./resources/Charge": "./lib/resources/Charge.js",
+    "./resources/Customer": "./lib/resources/Customer.js",
+    "./resources/Dispute": "./lib/resources/Dispute.js",
+    "./resources/Event": "./lib/resources/Event.js",
+    "./resources/Link": "./lib/resources/Link.js",
+    "./resources/Recipient": "./lib/resources/Recipient.js",
+    "./resources/Token": "./lib/resources/Token.js",
+    "./resources/Transfer": "./lib/resources/Transfer.js",
+    "./resources/Transaction": "./lib/resources/Transaction.js"
   }
 }
